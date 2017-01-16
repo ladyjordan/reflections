@@ -1,0 +1,49 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+     The difference is given in terms of what is removed(-) and what is added(+)
+     to the old file to get the new version. So it is easy to see just the part
+     that is changed. The bug that is introduced is caught in the part that is
+     changed, which shows up in the diff.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    We could restore to a previous version if the new version breaks.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros - you get to choose the version you want to save each time and 
+    dont end up saving versions that are not useful. Basically filtering
+    out the useful version and naming them.
+    Cons - If you fail to commit a version, it is lost.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Sometimes it is a smart idea to save a related working part together rather than 
+    individual pieces.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It saves a working version for me, something I can always fall back to in case
+    I break something.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    To experiment various commands I can use to version control.
+
+How could having easy access to the entire history of a file make you a more efficient 
+programmer in the long term?
+
+	History of a file helps one to go back to the choosen version and work from there
+	and try out various possibilties which the fear of breaking things.
+
+
