@@ -30,7 +30,13 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Without these I would have to use a messenger to communicate and review any changes, 
+    or resolve conflicts during merge manually and interact on various different platforms. 
+    Also keep sending multiple versions of files back and forth with the latest changes. 
+    Mechanisms like opening a pull request thelp code review before 
+    merging the code, comment on it, branching to avoid breaking the main code yet never stop experimenting,
+    forking a repo, cloning it, features to systematically resolve merge conflicts all make it easy to collborate.
+    It gives a platform to do all of it in one place.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
