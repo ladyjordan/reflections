@@ -41,5 +41,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Experimental changes or a new feature are usually worked at in a new branch. This prevents the 
+    main code on the master from breaking. These branches would eventually be merged with master 
+    once they are done.
 
